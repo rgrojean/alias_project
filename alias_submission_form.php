@@ -48,7 +48,7 @@
   <div class="form-group">
    <label class="col-md-1 control-label">Discovery Link</label>
    <div class="col-md-2">
-    <input type="text" name="disco_link" placeholder="Sales Rep" class="form-control">
+    <input type="text" name="disco_link" class="form-control">
     </div>
   </div>
 <div class="form-group">
